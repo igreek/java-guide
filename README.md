@@ -1,5 +1,5 @@
 
-##2023最新Java学习路线 
+## 2023最新Java学习路线 
 #### 尚学堂B站系列教程
 - https://www.bilibili.com/read/cv5216534 （强力推荐） 
 
@@ -8,7 +8,7 @@
 
 - 应用框架系列：Spring6→SpringMVC→MyBatis→MyBatisPlus→SSM→SpringBoot2→SpringCloud
 
-- 中间件系列：Git→Redis7→Docker→Elasticsearch→ZooKeeper→Nginx→RocketMQ→K8S
+- 中间件系列：Git→Redis7→Elasticsearch→ZooKeeper→Nginx→RocketMQ→Docker→K8S
 
 - 项目实战：谷粒商城(大型重磅) 
 
